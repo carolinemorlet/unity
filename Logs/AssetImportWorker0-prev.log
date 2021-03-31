@@ -13,12 +13,11 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-46361
+36643
 Successfully changed project path to: /home/caroline/Hackathon 2
 /home/caroline/Hackathon 2
 Using Asset Import Pipeline V2.
-Unable to load player prefs
-Refreshing native plugins compatible for Editor in 41,04 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 48,31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path /home/caroline/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -34,2227 +33,238 @@ le_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubem
 _ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer
 _multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR
 _robustness GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 70261568
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle -370047488
 Initialize mono
 Mono path[0] = '/home/caroline/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = '/home/caroline/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/home/caroline/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56576
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56439
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /home/caroline/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0,002608 seconds.
+Registered in 0,001705 seconds.
 Native extension for LinuxStandalone target not found
-Refreshing native plugins compatible for Editor in 63,85 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 46,17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2,344 seconds
+- Completed reload, in  1,398 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0,003307 seconds.
+Registered in 0,000761 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
-Refreshing native plugins compatible for Editor in 62,84 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 45,41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1,304 seconds
+- Completed reload, in  1,189 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0,43 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0,44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 79,1 MB.
-System memory in use after: 79,0 MB.
+Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79,3 MB.
+System memory in use after: 79,3 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
-Total: 5,722814 ms (FindLiveObjects: 0,329873 ms CreateObjectMapping: 0,201933 ms MarkObjects: 4,662233 ms  DeleteObjects: 0,525967 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/imports
-  artifactKey: Guid(ed61f6e8025005b6fa501e2dc3026689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports using Guid(ed61f6e8025005b6fa501e2dc3026689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572e734ab0de185cfd592891c9ad317c') in 0,005983 seconds
-  Import took 0,013374 seconds .
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 6,156688 ms (FindLiveObjects: 0,302127 ms CreateObjectMapping: 0,269218 ms MarkObjects: 5,072787 ms  DeleteObjects: 0,510449 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 66,450098 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee845a6191dae5ed2774712392ba67a9') in 0,095852 seconds
-  Import took 0,100471 seconds .
+  path: Assets/Palettes/tilesheet2.prefab
+  artifactKey: Guid(2b30b5f25c093062984b4e910f1a6445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/tilesheet2.prefab using Guid(2b30b5f25c093062984b4e910f1a6445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d6177772f2bac62a9f48d81d0a5cd3') in 0,044954 seconds
+  Import took 0,051268 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000245 seconds.
+  Time since last request: 0,008320 seconds.
+  path: Assets/Palettes/tilesheet2.prefab
+  artifactKey: Guid(2b30b5f25c093062984b4e910f1a6445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/tilesheet2.prefab using Guid(2b30b5f25c093062984b4e910f1a6445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d6177772f2bac62a9f48d81d0a5cd3') in 0,002529 seconds
+  Import took 0,006823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31,249471 seconds.
   path: Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png
-  artifactKey: Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91eb9b708fc575af66d2437fccfab06') in 0,007747 seconds
-  Import took 0,013232 seconds .
+  artifactKey: Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6aa062a82429c81c8a8d5294eaf23b') in 0,068060 seconds
+  Import took 0,073410 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 32,003300 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216b54f4e9a288373603eb04b77cc8c9') in 0,007594 seconds
-  Import took 0,011676 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,018052 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216b54f4e9a288373603eb04b77cc8c9') in 0,007898 seconds
-  Import took 0,012475 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 31,235911 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(063d4d51b5f328880bad750b76e92b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a707f914aa4dd65a526f923b6a17f9') in 0,097798 seconds
-  Import took 0,101816 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29,569458 seconds.
+  Time since last request: 31,500554 seconds.
   path: Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png
-  artifactKey: Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96643248867b9d4d8d3cab9d93f10ed') in 0,009515 seconds
-  Import took 0,015145 seconds .
+  artifactKey: Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485f9c393bc8724cd2d623739832f942') in 0,005571 seconds
+  Import took 0,009356 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,010941 seconds.
+  Time since last request: 0,021788 seconds.
   path: Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png
-  artifactKey: Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96643248867b9d4d8d3cab9d93f10ed') in 0,006535 seconds
-  Import took 0,013043 seconds .
+  artifactKey: Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485f9c393bc8724cd2d623739832f942') in 0,006849 seconds
+  Import took 0,011435 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 19,250211 seconds.
+  Time since last request: 10,339185 seconds.
   path: Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png
-  artifactKey: Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa58ea5edc2b4b343ce451c303acf1d9') in 0,065516 seconds
-  Import took 0,071125 seconds .
+  artifactKey: Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7330f211a9bd68c56811465bf0fca062') in 0,007494 seconds
+  Import took 0,012179 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 223,470743 seconds.
-  path: Assets/imports/tilesheet
-  artifactKey: Guid(13672e619a27abdb3b2dc72740e25285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet using Guid(13672e619a27abdb3b2dc72740e25285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd290e213103f1d89766786f4e935940e') in 0,001449 seconds
-  Import took 0,006314 seconds .
+  Time since last request: 22,559323 seconds.
+  path: Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png
+  artifactKey: Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(9454cd52531c2fb2895599aa94bb1936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec7643e61d668aa9cf2c424368526038') in 0,062091 seconds
+  Import took 0,067463 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 303,374218 seconds.
-  path: Assets/Palettes/tilesheet2
-  artifactKey: Guid(0c8a01f9d219f75e2bb5042c673e009b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/tilesheet2 using Guid(0c8a01f9d219f75e2bb5042c673e009b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5829ae0365e8349e4952ab2f3f87179') in 0,002416 seconds
-  Import took 0,008716 seconds .
+  Time since last request: 179,043886 seconds.
+  path: Assets/imports/egg.png
+  artifactKey: Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg.png using Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fd4a7b0bba641c3e97c0ef3bf8da9b') in 0,012443 seconds
+  Import took 0,016552 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3,212404 seconds.
-  path: Assets/Palettes/tilesheet2/Tilesheet2.prefab
-  artifactKey: Guid(50284e165e74824e78721ccfc221e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/tilesheet2/Tilesheet2.prefab using Guid(50284e165e74824e78721ccfc221e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ac573623caea57800c0309d713fa866') in 0,008562 seconds
-  Import took 0,012610 seconds .
+  Time since last request: 49,817007 seconds.
+  path: Assets/imports/egg.png
+  artifactKey: Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg.png using Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6378c734ee74f19ad1b8385527f1c724') in 0,010229 seconds
+  Import took 0,015799 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8,882999 seconds.
-  path: Assets/Palettes/tilesheet1/tilesheet1.prefab
-  artifactKey: Guid(6f414f8dc1f6f02f7a62ab929f6f8ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/tilesheet1/tilesheet1.prefab using Guid(6f414f8dc1f6f02f7a62ab929f6f8ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b549b876d4ec174c3c62f4996298cca6') in 0,003701 seconds
-  Import took 0,007758 seconds .
+  Time since last request: 113,591388 seconds.
+  path: Assets/imports/egg.png
+  artifactKey: Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg.png using Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c8871b92336cc91ba15837d584a67c') in 0,007131 seconds
+  Import took 0,011355 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0,001313 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for LinuxStandalone target not found
-Refreshing native plugins compatible for Editor in 0,38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0,999 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0,43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0,00 ms.
-Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 80,7 MB.
-System memory in use after: 80,7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2272.
-Total: 5,087313 ms (FindLiveObjects: 0,216626 ms CreateObjectMapping: 0,073630 ms MarkObjects: 4,291019 ms  DeleteObjects: 0,504042 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 825,147233 seconds.
-  path: Assets/imports/tilesheet/bushfence3_0.asset
-  artifactKey: Guid(beb4165f704ace7978e0fbbef383267f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_0.asset using Guid(beb4165f704ace7978e0fbbef383267f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aca645ac510357706d0a74e3eea89eb') in 0,064339 seconds
-  Import took 0,069390 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000215 seconds.
-  path: Assets/imports/tilesheet/bushfence3_9.asset
-  artifactKey: Guid(3209edfd48b74d8c2904997e0152128d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_9.asset using Guid(3209edfd48b74d8c2904997e0152128d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3019fc9ee5df983a28a602d49079a04d') in 0,005388 seconds
-  Import took 0,009524 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000225 seconds.
-  path: Assets/imports/tilesheet/bushfence3_3.asset
-  artifactKey: Guid(5b33d9d82ed3712daae2f6b083523682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_3.asset using Guid(5b33d9d82ed3712daae2f6b083523682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7562cf801cbcc9d5100d1270100579') in 0,007568 seconds
-  Import took 0,013231 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000199 seconds.
-  path: Assets/imports/tilesheet/bushfence3_33.asset
-  artifactKey: Guid(8bf08dd9c4af93670b91b0c15aed16b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_33.asset using Guid(8bf08dd9c4af93670b91b0c15aed16b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0674d0f914fe3a08da1f43810e129955') in 0,005540 seconds
-  Import took 0,010382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000218 seconds.
-  path: Assets/imports/tilesheet/bushfence3_12.asset
-  artifactKey: Guid(5fd5d40b60c0a24b58a07d49aecb8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_12.asset using Guid(5fd5d40b60c0a24b58a07d49aecb8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa486c7d11bde9296d2df13224cfcee1') in 0,004559 seconds
-  Import took 0,009120 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000193 seconds.
-  path: Assets/imports/tilesheet/bushfence3_14.asset
-  artifactKey: Guid(ea2145cdd58fcff8c8c479da4a158ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_14.asset using Guid(ea2145cdd58fcff8c8c479da4a158ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27df0afe76f8ed2ac5085640656b941e') in 0,004557 seconds
-  Import took 0,008745 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000318 seconds.
-  path: Assets/imports/tilesheet/bushfence3_27.asset
-  artifactKey: Guid(05667f5bf6565cd75aa4c8499276047f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_27.asset using Guid(05667f5bf6565cd75aa4c8499276047f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65ffddeaef438f746a8bd6cca6771e1') in 0,008942 seconds
-  Import took 0,015269 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000182 seconds.
-  path: Assets/imports/tilesheet/bushfence3_10.asset
-  artifactKey: Guid(bf22212834d77a1078efdb3d6dbd4653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_10.asset using Guid(bf22212834d77a1078efdb3d6dbd4653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0130ec1f3273b9809729da9917602958') in 0,003718 seconds
-  Import took 0,008336 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000192 seconds.
-  path: Assets/imports/tilesheet/bushfence3_21.asset
-  artifactKey: Guid(c901e9b0a96b720d993a03e76ac30462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_21.asset using Guid(c901e9b0a96b720d993a03e76ac30462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aafac3b95cd720751d3109e236c3274') in 0,005270 seconds
-  Import took 0,011392 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000182 seconds.
-  path: Assets/imports/tilesheet/bushfence3_29.asset
-  artifactKey: Guid(571f79aca14c93e2f9f09bbb1c249a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_29.asset using Guid(571f79aca14c93e2f9f09bbb1c249a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87945592a5b978f1a877bcef374d71b') in 0,005770 seconds
-  Import took 0,012420 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000713 seconds.
-  path: Assets/imports/tilesheet/bushfence3_31.asset
-  artifactKey: Guid(def7ebfc23ae50bcf874c374238326c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_31.asset using Guid(def7ebfc23ae50bcf874c374238326c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b04e12157a351a3094a4daea93ee8e') in 0,008050 seconds
-  Import took 0,014399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000211 seconds.
-  path: Assets/imports/tilesheet/bushfence3_28.asset
-  artifactKey: Guid(0170c7d448c50cbbfbb1c0b2ffb1caf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_28.asset using Guid(0170c7d448c50cbbfbb1c0b2ffb1caf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40cfc7a1bb8feb3c5dc8f1b62db37ad') in 0,005719 seconds
-  Import took 0,011516 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000189 seconds.
-  path: Assets/imports/tilesheet/bushfence3_25.asset
-  artifactKey: Guid(77353185b9f954e1687493067c8c8ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_25.asset using Guid(77353185b9f954e1687493067c8c8ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71e5e63ad85b12a3c2ff60943a65552') in 0,006528 seconds
-  Import took 0,012445 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000225 seconds.
-  path: Assets/imports/tilesheet/bushfence3_8.asset
-  artifactKey: Guid(5736c0c32242450e89cb5c822218c927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_8.asset using Guid(5736c0c32242450e89cb5c822218c927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cf0f11dd101495ad781e2d36ef117a') in 0,007091 seconds
-  Import took 0,013964 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000190 seconds.
-  path: Assets/imports/tilesheet/bushfence3_1.asset
-  artifactKey: Guid(48898e470f33476708c2cd072d7a3bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_1.asset using Guid(48898e470f33476708c2cd072d7a3bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f502555e5f438af7fdc2e79b8113278') in 0,007937 seconds
-  Import took 0,014169 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000190 seconds.
-  path: Assets/imports/tilesheet/bushfence3_6.asset
-  artifactKey: Guid(33045835b0e4a7e3aace9fbdd5389c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_6.asset using Guid(33045835b0e4a7e3aace9fbdd5389c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120b6bbcf795c3b2f4cc6ce536d6f156') in 0,004388 seconds
-  Import took 0,008463 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000201 seconds.
-  path: Assets/imports/tilesheet/bushfence3_24.asset
-  artifactKey: Guid(17ac3c83e7f8f6194baab98bb18dab49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_24.asset using Guid(17ac3c83e7f8f6194baab98bb18dab49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c43aef0f70ce037260cbfb6f3728d7') in 0,004864 seconds
-  Import took 0,011262 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000243 seconds.
-  path: Assets/imports/tilesheet/bushfence3_7.asset
-  artifactKey: Guid(db857c2943ea7931f83ce605333c738a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_7.asset using Guid(db857c2943ea7931f83ce605333c738a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e012448e46af17230866f73379aa7c') in 0,008168 seconds
-  Import took 0,014432 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000260 seconds.
-  path: Assets/imports/tilesheet/bushfence3_4.asset
-  artifactKey: Guid(3135ea0b7445e658d8021347b4c3a2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_4.asset using Guid(3135ea0b7445e658d8021347b4c3a2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5384c053e299e064263662425ab16b53') in 0,005010 seconds
-  Import took 0,010381 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000170 seconds.
-  path: Assets/imports/tilesheet/bushfence3_38.asset
-  artifactKey: Guid(bbad575717102cdc8a431af552876d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_38.asset using Guid(bbad575717102cdc8a431af552876d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7926dea69587e955eae0820912697b7') in 0,004710 seconds
-  Import took 0,008687 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000169 seconds.
-  path: Assets/imports/tilesheet/bushfence3_11.asset
-  artifactKey: Guid(bd884122c9dbc74ea8d1c597988f83e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_11.asset using Guid(bd884122c9dbc74ea8d1c597988f83e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3a1387ffab0a7a7aaeed0f9a5b09c8') in 0,004927 seconds
-  Import took 0,009956 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000610 seconds.
-  path: Assets/imports/tilesheet/bushfence3_39.asset
-  artifactKey: Guid(ff7e58e874297aeacb5b6e2c996c613c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_39.asset using Guid(ff7e58e874297aeacb5b6e2c996c613c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18835b78e9c84db3e1b202bb14cf45b8') in 0,005836 seconds
-  Import took 0,010628 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000191 seconds.
-  path: Assets/imports/tilesheet/bushfence3_18.asset
-  artifactKey: Guid(5ee3d9c533a9ec802ab16627e3c956fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_18.asset using Guid(5ee3d9c533a9ec802ab16627e3c956fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf55ec1396345a392d0e0f62d7751afd') in 0,004915 seconds
-  Import took 0,009497 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000158 seconds.
-  path: Assets/imports/tilesheet/bushfence3_23.asset
-  artifactKey: Guid(f08d7279aa32c40639cf796c3eda8cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_23.asset using Guid(f08d7279aa32c40639cf796c3eda8cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c7558c6ff180fd12f9965b6cabf692') in 0,006505 seconds
-  Import took 0,010968 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000200 seconds.
-  path: Assets/imports/tilesheet/bushfence3_17.asset
-  artifactKey: Guid(c63462ac6089f4547bb029d245aee47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_17.asset using Guid(c63462ac6089f4547bb029d245aee47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3861dbef282012cf6dfe3358320567f8') in 0,006075 seconds
-  Import took 0,012557 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000209 seconds.
-  path: Assets/imports/tilesheet/bushfence3_13.asset
-  artifactKey: Guid(3aab50a0f827ea6e4b16bf91b2cc7ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_13.asset using Guid(3aab50a0f827ea6e4b16bf91b2cc7ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f506a872fffcb699a3b7c14f1962c4') in 0,005945 seconds
-  Import took 0,013482 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000253 seconds.
-  path: Assets/imports/tilesheet/bushfence3_35.asset
-  artifactKey: Guid(988fb2c80d5615e69a76fa21a5ba2900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_35.asset using Guid(988fb2c80d5615e69a76fa21a5ba2900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8659ab982c1ef0418a242ba3e5ae740') in 0,006444 seconds
-  Import took 0,011692 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000186 seconds.
-  path: Assets/imports/tilesheet/bushfence3_34.asset
-  artifactKey: Guid(e08335d0a16f73438a0f103a6b6b8b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_34.asset using Guid(e08335d0a16f73438a0f103a6b6b8b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '984bc0523743486008b9547a733c574a') in 0,004182 seconds
-  Import took 0,008790 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000194 seconds.
-  path: Assets/imports/tilesheet/bushfence3_30.asset
-  artifactKey: Guid(88605ac290340f5e796eda7f1429d609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_30.asset using Guid(88605ac290340f5e796eda7f1429d609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '519ced50196dcd3963433e968911988e') in 0,005392 seconds
-  Import took 0,011854 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000338 seconds.
-  path: Assets/imports/tilesheet/bushfence3_36.asset
-  artifactKey: Guid(3b25306eaef2b5c67a12f4be87f489fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_36.asset using Guid(3b25306eaef2b5c67a12f4be87f489fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f06dc21aceb4690757116681cec505') in 0,006654 seconds
-  Import took 0,012198 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000227 seconds.
-  path: Assets/imports/tilesheet/bushfence3_5.asset
-  artifactKey: Guid(dc5ab912c4744ab46afec2aad988e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_5.asset using Guid(dc5ab912c4744ab46afec2aad988e571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048bbc5afdd09ef50753fa6956ce9d33') in 0,005966 seconds
-  Import took 0,010837 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000191 seconds.
-  path: Assets/imports/tilesheet/bushfence3_19.asset
-  artifactKey: Guid(fb37ba90d37568b7e9616af41a72034d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_19.asset using Guid(fb37ba90d37568b7e9616af41a72034d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b256225e997bc41e83c12cb151212f43') in 0,003729 seconds
-  Import took 0,008472 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000168 seconds.
-  path: Assets/imports/tilesheet/bushfence3_20.asset
-  artifactKey: Guid(b83ea6c9ddafa8f8290bbe470579183f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_20.asset using Guid(b83ea6c9ddafa8f8290bbe470579183f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9541396cc6e8cc0da2a38167cbf1ee93') in 0,006874 seconds
-  Import took 0,013311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000182 seconds.
-  path: Assets/imports/tilesheet/bushfence3_22.asset
-  artifactKey: Guid(f31fab92bb55afb3eaeb69ca984da37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_22.asset using Guid(f31fab92bb55afb3eaeb69ca984da37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d46c6ac9d835620e3857911373a92d4') in 0,005722 seconds
-  Import took 0,010497 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000294 seconds.
-  path: Assets/imports/tilesheet/bushfence3_37.asset
-  artifactKey: Guid(fd328cd9d88976ba28661f5c0b450945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_37.asset using Guid(fd328cd9d88976ba28661f5c0b450945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba85b2bbab6d17b79afdd9f7e8195cff') in 0,004068 seconds
-  Import took 0,008201 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000174 seconds.
-  path: Assets/imports/tilesheet/bushfence3_16.asset
-  artifactKey: Guid(7e4de9f9b453b18bfb0fc6d73b6113c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_16.asset using Guid(7e4de9f9b453b18bfb0fc6d73b6113c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7daf6df0cc2b7531e1ee43c4d03f5d51') in 0,008922 seconds
-  Import took 0,014800 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000169 seconds.
-  path: Assets/imports/tilesheet/bushfence3_26.asset
-  artifactKey: Guid(2e2bb8ba6099dbcf6b2198ed54e9c8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_26.asset using Guid(2e2bb8ba6099dbcf6b2198ed54e9c8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9260aa0c1139930a5683526eedcba4') in 0,005936 seconds
-  Import took 0,010755 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000230 seconds.
-  path: Assets/imports/tilesheet/bushfence3_15.asset
-  artifactKey: Guid(ba863459b86f14f4a902a2ab98807084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_15.asset using Guid(ba863459b86f14f4a902a2ab98807084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b28e8afa9c175bc6738402a1d8391e5') in 0,005685 seconds
-  Import took 0,010487 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000210 seconds.
-  path: Assets/imports/tilesheet/bushfence3_2.asset
-  artifactKey: Guid(8b4b1444996286db3b241fc162ba58a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_2.asset using Guid(8b4b1444996286db3b241fc162ba58a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962fe2e4761764eb4448e591b9589053') in 0,007639 seconds
-  Import took 0,014883 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000249 seconds.
-  path: Assets/imports/tilesheet/bushfence3_32.asset
-  artifactKey: Guid(787ae94bb0c341c149d3bed185f58af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_32.asset using Guid(787ae94bb0c341c149d3bed185f58af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '079ae89309e46c162091b0917da958b2') in 0,005704 seconds
-  Import took 0,012839 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18,113508 seconds.
-  path: Assets/imports/tilesheet/bushfence3_40.asset
-  artifactKey: Guid(994eba0b312bd71389d136fee5440af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_40.asset using Guid(994eba0b312bd71389d136fee5440af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a093a7424816e1ba94f696516b60d1e9') in 0,005825 seconds
-  Import took 0,010068 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000211 seconds.
-  path: Assets/imports/tilesheet/bushfence3_46.asset
-  artifactKey: Guid(f08f034eac31a5ccabc05f49bb762be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_46.asset using Guid(f08f034eac31a5ccabc05f49bb762be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f702217caa9be845d2118425ee7065b') in 0,006079 seconds
-  Import took 0,010011 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000235 seconds.
-  path: Assets/imports/tilesheet/bushfence3_48.asset
-  artifactKey: Guid(0f657262dbf46b4289a700590311ec54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_48.asset using Guid(0f657262dbf46b4289a700590311ec54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9649d42c6b23e86e00988d743cb0cdec') in 0,006757 seconds
-  Import took 0,011147 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000336 seconds.
-  path: Assets/imports/tilesheet/bushfence3_44.asset
-  artifactKey: Guid(6beeedfd1080ccfcda2ba4ebb8de9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_44.asset using Guid(6beeedfd1080ccfcda2ba4ebb8de9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613dc7ecb78209e1e6f59b3e468ae9fb') in 0,005334 seconds
-  Import took 0,010097 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000179 seconds.
-  path: Assets/imports/tilesheet/bushfence3_43.asset
-  artifactKey: Guid(d7aff99ca3b2c2d34bcf4c9edeb8727c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_43.asset using Guid(d7aff99ca3b2c2d34bcf4c9edeb8727c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7dc9f085127b1ecd3325a0875d1fb51') in 0,004650 seconds
-  Import took 0,009835 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000231 seconds.
-  path: Assets/imports/tilesheet/bushfence3_45.asset
-  artifactKey: Guid(de1d8ec83c315ce4382fc08d790dc3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_45.asset using Guid(de1d8ec83c315ce4382fc08d790dc3e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b7680698baabbda2a186b7b9c8e0e7') in 0,004824 seconds
-  Import took 0,010214 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000221 seconds.
-  path: Assets/imports/tilesheet/bushfence3_49.asset
-  artifactKey: Guid(7f9cee5f24d60bddb9b30b93bcff4134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_49.asset using Guid(7f9cee5f24d60bddb9b30b93bcff4134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab652838595c0712a7a63833ea7b3683') in 0,005420 seconds
-  Import took 0,012269 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000216 seconds.
-  path: Assets/imports/tilesheet/bushfence3_42.asset
-  artifactKey: Guid(1919d4476d4f9e9d2b5c55dd01f5e556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_42.asset using Guid(1919d4476d4f9e9d2b5c55dd01f5e556) Importer(815301076,1909f56bfc062723c751e8b465ee728b) ./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformIma -> (artifact id: '9aa04af155524f2c37b895579bd71ae6') in 0,006041 seconds
-  Import took 0,011852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000272 seconds.
-  path: Assets/imports/tilesheet/bushfence3_47.asset
-  artifactKey: Guid(40a344f1a68b7de27a5cb955acabc744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_47.asset using Guid(40a344f1a68b7de27a5cb955acabc744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc59a8f0476c24ee8a6a3f47ac8eccf') in 0,005785 seconds
-  Import took 0,011393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000239 seconds.
-  path: Assets/imports/tilesheet/bushfence3_41.asset
-  artifactKey: Guid(1e112a98b0d2b4e52beb9f9abdbc7ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_41.asset using Guid(1e112a98b0d2b4e52beb9f9abdbc7ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e54567c9080e19213d35fee2551715bc') in 0,005255 seconds
-  Import took 0,010976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,198135 seconds.
-  path: Assets/imports/tilesheet/bushfence3_50.asset
-  artifactKey: Guid(38c7ecf0ab6ac1193915458f108585d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_50.asset using Guid(38c7ecf0ab6ac1193915458f108585d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb5e6906d698e5f07090f4ee51549b1') in 0,005539 seconds
-  Import took 0,009923 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000018 seconds.
-  path: Assets/imports/tilesheet/bushfence3_57.asset
-  artifactKey: Guid(ad382a8fc8bbe42659674fa008c70b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_57.asset using Guid(ad382a8fc8bbe42659674fa008c70b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f087a9a05496205d62eecee6973bf9') in 0,005049 seconds
-  Import took 0,009628 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000186 seconds.
-  path: Assets/imports/tilesheet/bushfence3_56.asset
-  artifactKey: Guid(4d99aaab522612ea5a979fb70297cc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_56.asset using Guid(4d99aaab522612ea5a979fb70297cc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14404ddf2c608e2548120d70adef145e') in 0,004987 seconds
-  Import took 0,009610 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000715 seconds.
-  path: Assets/imports/tilesheet/bushfence3_50.asset
-  artifactKey: Guid(38c7ecf0ab6ac1193915458f108585d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_50.asset using Guid(38c7ecf0ab6ac1193915458f108585d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb5e6906d698e5f07090f4ee51549b1') in 0,005643 seconds
-  Import took 0,011155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000019 seconds.
-  path: Assets/imports/tilesheet/bushfence3_59.asset
-  artifactKey: Guid(9130d7c16f195ad798df97a9ee7c98de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_59.asset using Guid(9130d7c16f195ad798df97a9ee7c98de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f752b40f3a43f26f25b44ea1be6f74') in 0,004148 seconds
-  Import took 0,008518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000232 seconds.
-  path: Assets/imports/tilesheet/bushfence3_52.asset
-  artifactKey: Guid(1a4b38baa6f5b08e69c1948235515543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_52.asset using Guid(1a4b38baa6f5b08e69c1948235515543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82653d4181a4c949e80ea7b7dd8c6780') in 0,003865 seconds
-  Import took 0,008137 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000206 seconds.
-  path: Assets/imports/tilesheet/bushfence3_51.asset
-  artifactKey: Guid(0b74fa1885291679cacb7dd346abc4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_51.asset using Guid(0b74fa1885291679cacb7dd346abc4a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cdb581c35886725683bcb23ac12f295') in 0,005347 seconds
-  Import took 0,011041 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000203 seconds.
-  path: Assets/imports/tilesheet/bushfence3_54.asset
-  artifactKey: Guid(da43e4b89790775efb511d2d8eeaf474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_54.asset using Guid(da43e4b89790775efb511d2d8eeaf474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46fbd567cba84add2316df54253cf21') in 0,005707 seconds
-  Import took 0,011864 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000169 seconds.
-  path: Assets/imports/tilesheet/bushfence3_55.asset
-  artifactKey: Guid(caa3e58b9c9f4e09eb895ab69ae0f705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_55.asset using Guid(caa3e58b9c9f4e09eb895ab69ae0f705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7205373031bdc5970c239ccda7a7eaeb') in 0,005564 seconds
-  Import took 0,011036 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000196 seconds.
-  path: Assets/imports/tilesheet/bushfence3_53.asset
-  artifactKey: Guid(29c5813d0d68b2892b0cf31ec1de6c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_53.asset using Guid(29c5813d0d68b2892b0cf31ec1de6c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b741199af3c643cbd33ccbf2fd5726') in 0,005272 seconds
-  Import took 0,010765 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000181 seconds.
-  path: Assets/imports/tilesheet/bushfence3_58.asset
-  artifactKey: Guid(a39408f96e14c4ca7b4fe9aa4cec41c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_58.asset using Guid(a39408f96e14c4ca7b4fe9aa4cec41c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a806bc82867ccc4b8141a9de18f503f') in 0,005219 seconds
-  Import took 0,010686 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000194 seconds.
-  path: Assets/imports/tilesheet/bushfence3_52.asset
-  artifactKey: Guid(1a4b38baa6f5b08e69c1948235515543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_52.asset using Guid(1a4b38baa6f5b08e69c1948235515543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82653d4181a4c949e80ea7b7dd8c6780') in 0,006010 seconds
-  Import took 0,011957 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,022550 seconds.
-  path: Assets/imports/tilesheet/bushfence3_58.asset
-  artifactKey: Guid(a39408f96e14c4ca7b4fe9aa4cec41c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/bushfence3_58.asset using Guid(a39408f96e14c4ca7b4fe9aa4cec41c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a806bc82867ccc4b8141a9de18f503f') in 0,003862 seconds
-  Import took 0,008594 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 14,473593 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_0.asset
-  artifactKey: Guid(466b4e392142ce1e5af60e1804553257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_0.asset using Guid(466b4e392142ce1e5af60e1804553257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b524d396fff4e3da39516d902c6f4f') in 0,007419 seconds
-  Import took 0,012259 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000226 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_7.asset
-  artifactKey: Guid(60809149dea41a28cbf24f22b9121cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_7.asset using Guid(60809149dea41a28cbf24f22b9121cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab3c67fb5a78ea4a2821fb65feb567e') in 0,006797 seconds
-  Import took 0,013136 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000213 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_10.asset
-  artifactKey: Guid(1577087359628c00090aa2b7a3b380b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_10.asset using Guid(1577087359628c00090aa2b7a3b380b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5d9d3bf8e3daa2b071156dfa1e48f4') in 0,004763 seconds
-  Import took 0,008601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000197 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_1.asset
-  artifactKey: Guid(a175bb5818c1de1aa86e2aca6956a4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_1.asset using Guid(a175bb5818c1de1aa86e2aca6956a4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84db728a90518be5955b53388b56196f') in 0,008191 seconds
-  Import took 0,014472 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000208 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_9.asset
-  artifactKey: Guid(21846c03259c2e9f4b96dfc5803c6c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_9.asset using Guid(21846c03259c2e9f4b96dfc5803c6c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e0b695e284cb85b59a9cb321210eeed') in 0,007735 seconds
-  Import took 0,012597 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000190 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_8.asset
-  artifactKey: Guid(58f86899464291063961a5f028767127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_8.asset using Guid(58f86899464291063961a5f028767127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0236a54d4ef617d9600f2037c832a720') in 0,005923 seconds
-  Import took 0,011565 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000451 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_14.asset
-  artifactKey: Guid(5b88994e0953168c18c731dd56ab0f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_14.asset using Guid(5b88994e0953168c18c731dd56ab0f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9564cf235427728f5809fbfedc2685') in 0,005341 seconds
-  Import took 0,009927 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000229 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_11.asset
-  artifactKey: Guid(af9ee7dfd44d4fe39a0570340e383c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_11.asset using Guid(af9ee7dfd44d4fe39a0570340e383c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f6df0464afee966309210bdb586a88') in 0,007152 seconds
-  Import took 0,014364 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000233 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_15.asset
-  artifactKey: Guid(b5d3163d4170c4c4fae1e6a715d20499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_15.asset using Guid(b5d3163d4170c4c4fae1e6a715d20499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76ea35428e4aea4d45b64d6216d2217') in 0,006041 seconds
-  Import took 0,010497 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000231 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_5.asset
-  artifactKey: Guid(8697ca1ca14e3cc1c802ebbcf270a367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_5.asset using Guid(8697ca1ca14e3cc1c802ebbcf270a367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfbb3b17cec12da1617196d6fbae7f20') in 0,003756 seconds
-  Import took 0,007751 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000230 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_17.asset
-  artifactKey: Guid(5b1ac6a1070780986851a98ec3b8a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_17.asset using Guid(5b1ac6a1070780986851a98ec3b8a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb864dbb20abf058a1a9cf579221cc8') in 0,005094 seconds
-  Import took 0,011611 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000472 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_16.asset
-  artifactKey: Guid(3949d36fac29d924396e91c19ee09d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_16.asset using Guid(3949d36fac29d924396e91c19ee09d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d55710963d12ba67cb24697d8c1b30') in 0,010275 seconds
-  Import took 0,016568 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000231 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_6.asset
-  artifactKey: Guid(7ddeb0518afdc2b09bc049edea0cb957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_6.asset using Guid(7ddeb0518afdc2b09bc049edea0cb957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e89b42af41d9f0234c665f49d837be') in 0,004783 seconds
-  Import took 0,008973 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000246 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_18.asset
-  artifactKey: Guid(645083d31aa6e164dab33f70ae627ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_18.asset using Guid(645083d31aa6e164dab33f70ae627ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b555d39e2849810b083b2edaf64c38b') in 0,005061 seconds
-  Import took 0,009214 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000162 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_12.asset
-  artifactKey: Guid(54e07e91bc5b72d7198403119f5a63e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_12.asset using Guid(54e07e91bc5b72d7198403119f5a63e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da088764efd86e7dc6e85a33e21d826c') in 0,007690 seconds
-  Import took 0,012678 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000180 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_13.asset
-  artifactKey: Guid(da9cdffbf65574189b9de5b2cf2d714d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_13.asset using Guid(da9cdffbf65574189b9de5b2cf2d714d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89ca18a25557cbcbe02cde1e5decb69') in 0,006760 seconds
-  Import took 0,011382 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000209 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_2.asset
-  artifactKey: Guid(29a845ea0b9262dfa8f7c2c90711a783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_2.asset using Guid(29a845ea0b9262dfa8f7c2c90711a783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8751648e533f68f3ba691dae4834031') in 0,003828 seconds
-  Import took 0,007523 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000230 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_3.asset
-  artifactKey: Guid(bf9315de29d501803a1dff416902314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_3.asset using Guid(bf9315de29d501803a1dff416902314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f83f6b8182a15210dc00e7e5327021') in 0,006168 seconds
-  Import took 0,011086 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000188 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_4.asset
-  artifactKey: Guid(f72fddcc5556cb14c906fec7b3cf3fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_4.asset using Guid(f72fddcc5556cb14c906fec7b3cf3fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf327b9314976f0f030a18b6feb3c5db') in 0,004217 seconds
-  Import took 0,008207 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000203 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_3.asset
-  artifactKey: Guid(bf9315de29d501803a1dff416902314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_3.asset using Guid(bf9315de29d501803a1dff416902314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f83f6b8182a15210dc00e7e5327021') in 0,005795 seconds
-  Import took 0,012044 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,021893 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_4.asset
-  artifactKey: Guid(f72fddcc5556cb14c906fec7b3cf3fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_4.asset using Guid(f72fddcc5556cb14c906fec7b3cf3fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf327b9314976f0f030a18b6feb3c5db') in 0,003757 seconds
-  Import took 0,008061 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16,340820 seconds.
-  path: Assets/Palettes/tilesheet1/tilesheet1.prefab
-  artifactKey: Guid(6f414f8dc1f6f02f7a62ab929f6f8ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/tilesheet1/tilesheet1.prefab using Guid(6f414f8dc1f6f02f7a62ab929f6f8ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdfe30d004e07dd2c770374dfa28b210') in 0,010775 seconds
-  Import took 0,015402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 860,997090 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_19.asset
-  artifactKey: Guid(4a2f82ca0a083769e8557712c85d2aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_19.asset using Guid(4a2f82ca0a083769e8557712c85d2aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1887e08f8efbd7c349440f60a820f75e') in 0,005874 seconds
-  Import took 0,012049 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000216 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_28.asset
-  artifactKey: Guid(3c1d99ac192565ccd821b2f36099f659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_28.asset using Guid(3c1d99ac192565ccd821b2f36099f659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4da3613c9bb7a60c859c6c02bdf012e') in 0,003870 seconds
-  Import took 0,009021 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000551 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_20.asset
-  artifactKey: Guid(32fee764ae3b629c89fb127a7c57b8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_20.asset using Guid(32fee764ae3b629c89fb127a7c57b8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85941d0a429e65f0ca312211abe3db8') in 0,006879 seconds
-  Import took 0,014539 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000244 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_24.asset
-  artifactKey: Guid(e4517b03275bdf98a98f2347d519b8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_24.asset using Guid(e4517b03275bdf98a98f2347d519b8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16157cf92dfeca3f7f113a3de9a0aa06') in 0,008643 seconds
-  Import took 0,015174 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000218 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_22.asset
-  artifactKey: Guid(efcc98fd8c5d1728e806e63a326b769d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_22.asset using Guid(efcc98fd8c5d1728e806e63a326b769d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6e24d5ec822a65b4ea85dc8a78dc83') in 0,005954 seconds
-  Import took 0,011634 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000211 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_23.asset
-  artifactKey: Guid(e637ac849974153e7a0fa7da2d223a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_23.asset using Guid(e637ac849974153e7a0fa7da2d223a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3dcead21f310b9b7c5a6b42a12933d2') in 0,004963 seconds
-  Import took 0,011858 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000250 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_21.asset
-  artifactKey: Guid(028d2fd8ec66cd5558942211a46e727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_21.asset using Guid(028d2fd8ec66cd5558942211a46e727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baad6fafc7a540dcdec16622e75ad3bd') in 0,004971 seconds
-  Import took 0,010670 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000186 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_25.asset
-  artifactKey: Guid(981e75cc3006afd129af4a0902aa402a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_25.asset using Guid(981e75cc3006afd129af4a0902aa402a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b5b4c3c8b24eb863662f53e5affc70') in 0,004231 seconds
-  Import took 0,009658 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000234 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_26.asset
-  artifactKey: Guid(26ae2f63bcf3e3289887055acfe94ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_26.asset using Guid(26ae2f63bcf3e3289887055acfe94ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9cbad9194232ba8740d8af7133ec53') in 0,007232 seconds
-  Import took 0,017286 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000208 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27.asset
-  artifactKey: Guid(d60d4a7e6ee4c80eaae13d315443a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27.asset using Guid(d60d4a7e6ee4c80eaae13d315443a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed2f0ea8ed1c33dbaff51bcc1965b10') in 0,006085 seconds
-  Import took 0,015028 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,019120 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27.asset
-  artifactKey: Guid(d60d4a7e6ee4c80eaae13d315443a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27.asset using Guid(d60d4a7e6ee4c80eaae13d315443a125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed2f0ea8ed1c33dbaff51bcc1965b10') in 0,006251 seconds
-  Import took 0,012541 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 42,950455 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g.png
-  artifactKey: Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(2aa7d8584c1ab57eb81678b00ea880ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f0440e0c14b8e5f25fb2c22ebaf165') in 0,108019 seconds
-  Import took 0,112839 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 92,821964 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_0 1.asset
-  artifactKey: Guid(b5f4b4c366ab3e30abb163ab91769bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_0 1.asset using Guid(b5f4b4c366ab3e30abb163ab91769bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b86d65bf079600ccf2d823be2a723f5') in 0,007455 seconds
-  Import took 0,012857 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000018 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_11 1.asset
-  artifactKey: Guid(e9aa7e103f4215ed4ad17cfc31da6427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_11 1.asset using Guid(e9aa7e103f4215ed4ad17cfc31da6427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9986c1737d73433894c6a3080867507') in 0,004948 seconds
-  Import took 0,011410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000237 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_5 1.asset
-  artifactKey: Guid(bd8db582648065b4b8e099f9e953e90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_5 1.asset using Guid(bd8db582648065b4b8e099f9e953e90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e379abf4db1750dddbc5a2e67c7f8197') in 0,012673 seconds
-  Import took 0,021469 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000189 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_7 1.asset
-  artifactKey: Guid(66a8fddb2ebe9ecd68db126299e9a7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_7 1.asset using Guid(66a8fddb2ebe9ecd68db126299e9a7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb3eca824a8ec9a14dfcb305f983a37') in 0,016289 seconds
-  Import took 0,024030 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000566 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_14 1.asset
-  artifactKey: Guid(74e73ce04351a6f06b1a77d23db833aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_14 1.asset using Guid(74e73ce04351a6f06b1a77d23db833aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39637b310ae76b8aa9ece4c1a08dca19') in 0,007734 seconds
-  Import took 0,014060 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000317 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_12 1.asset
-  artifactKey: Guid(1e36407d7452be630a9041cc1a2d24cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_12 1.asset using Guid(1e36407d7452be630a9041cc1a2d24cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f8e2922c470d3f154bb2be7a4edefe') in 0,012452 seconds
-  Import took 0,027974 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000038 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_9 1.asset
-  artifactKey: Guid(1d4248f55727b41ba84799261a9fc82c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_9 1.asset using Guid(1d4248f55727b41ba84799261a9fc82c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47165ed9579b4217000066411ca61e26') in 0,017815 seconds
-  Import took 0,024121 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,001226 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_10 1.asset
-  artifactKey: Guid(a6b8e66767acb75168b3c8d45804d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_10 1.asset using Guid(a6b8e66767acb75168b3c8d45804d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7901513df1f868fb10e009858bfa1d88') in 0,006294 seconds
-  Import took 0,015075 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000309 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_3 1.asset
-  artifactKey: Guid(e733e534bb1498b0396dad033d0bc18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_3 1.asset using Guid(e733e534bb1498b0396dad033d0bc18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) geForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/Tem -> (artifact id: 'cb2121042838be2938f0caec6aca27ff') in 0,005714 seconds
-  Import took 0,013256 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000014 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_4 1.asset
-  artifactKey: Guid(26500a360b6d6b350ac80a37581ff4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_4 1.asset using Guid(26500a360b6d6b350ac80a37581ff4a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e6ecc3af41779aad44267bd424ab126') in 0,009015 seconds
-  Import took 0,014705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000209 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_2 1.asset
-  artifactKey: Guid(dcc2d47d5ea67f7878f3a8e491088a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_2 1.asset using Guid(dcc2d47d5ea67f7878f3a8e491088a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c624277acd7a3b648eee319e7439785f') in 0,015827 seconds
-  Import took 0,022315 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000323 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_1 1.asset
-  artifactKey: Guid(1a9bfac67ce101cca859bded0ff91d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_1 1.asset using Guid(1a9bfac67ce101cca859bded0ff91d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f148ab60a63ac09c50ce494c6dc08f9a') in 0,006793 seconds
-  Import took 0,015991 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000287 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_6 1.asset
-  artifactKey: Guid(bc10d7a8d80584a9382cb24c59f4219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_6 1.asset using Guid(bc10d7a8d80584a9382cb24c59f4219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d8545659b8a54bedc0e694f281b46c') in 0,006741 seconds
-  Import took 0,015036 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000222 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_13 1.asset
-  artifactKey: Guid(4c72f1e2d783f499588789781ee0443a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_13 1.asset using Guid(4c72f1e2d783f499588789781ee0443a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2aeccb04b1e871ab1824e7e0d6f28e') in 0,006216 seconds
-  Import took 0,013796 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000679 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_8 1.asset
-  artifactKey: Guid(1e4f44aac72d96328b9d41d78f41ad58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_8 1.asset using Guid(1e4f44aac72d96328b9d41d78f41ad58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b892d2b97dc96b2b1b01985109c1bf') in 0,012705 seconds
-  Import took 0,022553 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,011885 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_6 1.asset
-  artifactKey: Guid(bc10d7a8d80584a9382cb24c59f4219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_6 1.asset using Guid(bc10d7a8d80584a9382cb24c59f4219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d8545659b8a54bedc0e694f281b46c') in 0,008320 seconds
-  Import took 0,014413 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 116,213859 seconds.
-  path: Assets/Palettes/tilesheet2/Tilesheet2.prefab
-  artifactKey: Guid(50284e165e74824e78721ccfc221e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/tilesheet2/Tilesheet2.prefab using Guid(50284e165e74824e78721ccfc221e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3de91cf0442b8e24de77b67d0e24e3') in 0,003267 seconds
-  Import took 0,007687 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 306,563098 seconds.
-  path: Assets/imports/easter_egg_1.png
-  artifactKey: Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/easter_egg_1.png using Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524b804a233a93cbdefc4915940d49d4') in 0,013241 seconds
-  Import took 0,017835 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000226 seconds.
-  path: Assets/imports/easter_egg_3.png
-  artifactKey: Guid(a403e468c07591207b6cf59df1cbb35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/easter_egg_3.png using Guid(a403e468c07591207b6cf59df1cbb35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a3a2504c8c1f08d76b9142fffed575') in 0,017818 seconds
-  Import took 0,024490 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000202 seconds.
-  path: Assets/imports/easter_egg_2.png
-  artifactKey: Guid(18cfd650933a7dd93af6e9d65c977fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/easter_egg_2.png using Guid(18cfd650933a7dd93af6e9d65c977fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4581a466346d679b854582f4db8b46e4') in 0,016470 seconds
-  Import took 0,022661 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15,254673 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_15 1.asset
-  artifactKey: Guid(7238547ad0b020f8a87d7adc389e1561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_15 1.asset using Guid(7238547ad0b020f8a87d7adc389e1561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5437cea2b400f5080876143c2f8845e4') in 0,007257 seconds
-  Import took 0,013298 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000240 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_18 1.asset
-  artifactKey: Guid(55e1d1ecdd10eff3a9f26c769d5ea61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_18 1.asset using Guid(55e1d1ecdd10eff3a9f26c769d5ea61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba0a3d00847a12042a4bf1d36fa7ccf3') in 0,005005 seconds
-  Import took 0,010239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000202 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_17 1.asset
-  artifactKey: Guid(14fa13c5604cfcb06acc48c64830f864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_17 1.asset using Guid(14fa13c5604cfcb06acc48c64830f864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6959f5b9a737ca14db0f9f7ef1bb3f07') in 0,005726 seconds
-  Import took 0,010426 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000337 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_16 1.asset
-  artifactKey: Guid(9945c92239bd83f598ba0454096f902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_16 1.asset using Guid(9945c92239bd83f598ba0454096f902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a811abf7a0c0d4d80dad82fdaf19a8b') in 0,006249 seconds
-  Import took 0,011070 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000214 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_15 1.asset
-  artifactKey: Guid(7238547ad0b020f8a87d7adc389e1561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_15 1.asset using Guid(7238547ad0b020f8a87d7adc389e1561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5437cea2b400f5080876143c2f8845e4') in 0,006281 seconds
-  Import took 0,011187 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000258 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_16 1.asset
-  artifactKey: Guid(9945c92239bd83f598ba0454096f902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_16 1.asset using Guid(9945c92239bd83f598ba0454096f902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a811abf7a0c0d4d80dad82fdaf19a8b') in 0,004802 seconds
-  Import took 0,010511 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,265760 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_19 1.asset
-  artifactKey: Guid(7a530af496c58b896b8e4afe47ce551c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_19 1.asset using Guid(7a530af496c58b896b8e4afe47ce551c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f5b3cc1dc6e78615cc85a6c1211f3f') in 0,007039 seconds
-  Import took 0,012772 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000229 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_20 1.asset
-  artifactKey: Guid(3523244845910d0459bf110e03b6817d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_20 1.asset using Guid(3523244845910d0459bf110e03b6817d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25e0263d675ad2b6bf0784d0a1c07a3') in 0,005903 seconds
-  Import took 0,012313 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000300 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_19 1.asset
-  artifactKey: Guid(7a530af496c58b896b8e4afe47ce551c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_19 1.asset using Guid(7a530af496c58b896b8e4afe47ce551c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f5b3cc1dc6e78615cc85a6c1211f3f') in 0,007506 seconds
-  Import took 0,013528 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000218 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_21 1.asset
-  artifactKey: Guid(b71ce77b7eab9e0899bb7ebc7f69cf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_21 1.asset using Guid(b71ce77b7eab9e0899bb7ebc7f69cf32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49e8d43f3662489d3652a3ed7f2fb1d') in 0,004428 seconds
-  Import took 0,011424 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,003739 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_20 1.asset
-  artifactKey: Guid(3523244845910d0459bf110e03b6817d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_20 1.asset using Guid(3523244845910d0459bf110e03b6817d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25e0263d675ad2b6bf0784d0a1c07a3') in 0,004467 seconds
-  Import took 0,011236 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,023990 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_22 1.asset
-  artifactKey: Guid(17cd99db3f848861e8772dd7a911a711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_22 1.asset using Guid(17cd99db3f848861e8772dd7a911a711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd9c2d3de28582c4456c0056b975f37') in 0,005874 seconds
-  Import took 0,012441 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000558 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_23 1.asset
-  artifactKey: Guid(d9a91cf8fb7315417b2089b66cc0b2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_23 1.asset using Guid(d9a91cf8fb7315417b2089b66cc0b2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e896ebc5a498dff022682408fc7faa34') in 0,005963 seconds
-  Import took 0,013346 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000192 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_24 1.asset
-  artifactKey: Guid(30f0800910dd20d67a00bf63b98f8d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_24 1.asset using Guid(30f0800910dd20d67a00bf63b98f8d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da30c15d0125c18711c2ac3e9f603521') in 0,005117 seconds
-  Import took 0,009742 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000178 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_25 1.asset
-  artifactKey: Guid(7efca973688b74e37b659632f23fd53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_25 1.asset using Guid(7efca973688b74e37b659632f23fd53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ddd26087b1f5d79a5fae85bfe8bd71') in 0,005145 seconds
-  Import took 0,009909 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000228 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_23 1.asset
-  artifactKey: Guid(d9a91cf8fb7315417b2089b66cc0b2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_23 1.asset using Guid(d9a91cf8fb7315417b2089b66cc0b2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e896ebc5a498dff022682408fc7faa34') in 0,005544 seconds
-  Import took 0,011847 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,012397 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_25 1.asset
-  artifactKey: Guid(7efca973688b74e37b659632f23fd53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_25 1.asset using Guid(7efca973688b74e37b659632f23fd53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ddd26087b1f5d79a5fae85bfe8bd71') in 0,006893 seconds
-  Import took 0,012967 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,204391 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_26 1.asset
-  artifactKey: Guid(799f945fb4ea30d97aefacff2beca794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_26 1.asset using Guid(799f945fb4ea30d97aefacff2beca794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46948231cee9dc4fabc47e72bf252dd6') in 0,006830 seconds
-  Import took 0,011682 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000216 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27 1.asset
-  artifactKey: Guid(869a8d9fbf822267ebc2398de2b8b114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27 1.asset using Guid(869a8d9fbf822267ebc2398de2b8b114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63edb2b2a1908655f9acb666749a4307') in 0,004570 seconds
-  Import took 0,009193 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000200 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_28 1.asset
-  artifactKey: Guid(6aa668891e11c3b90a2269e8fda102ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_28 1.asset using Guid(6aa668891e11c3b90a2269e8fda102ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8468307397a7c54185f0296aea0b2f36') in 0,005323 seconds
-  Import took 0,010644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000231 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_26 1.asset
-  artifactKey: Guid(799f945fb4ea30d97aefacff2beca794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_26 1.asset using Guid(799f945fb4ea30d97aefacff2beca794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46948231cee9dc4fabc47e72bf252dd6') in 0,005560 seconds
-  Import took 0,011951 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,001179 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27 1.asset
-  artifactKey: Guid(869a8d9fbf822267ebc2398de2b8b114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_27 1.asset using Guid(869a8d9fbf822267ebc2398de2b8b114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63edb2b2a1908655f9acb666749a4307') in 0,007704 seconds
-  Import took 0,013469 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,212449 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29 1.asset
-  artifactKey: Guid(ce68a5fabafea34c392f1287d80a01f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29 1.asset using Guid(ce68a5fabafea34c392f1287d80a01f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda83c3e4126d3c84dc35c9504674a15') in 0,006851 seconds
-  Import took 0,011962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000228 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29.asset
-  artifactKey: Guid(79cfec8d65967b96eb06f15c3e7a87d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29.asset using Guid(79cfec8d65967b96eb06f15c3e7a87d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b986928d62b3b7cc09e3db6016fc6f') in 0,004203 seconds
-  Import took 0,009291 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000262 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29 1.asset
-  artifactKey: Guid(ce68a5fabafea34c392f1287d80a01f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29 1.asset using Guid(ce68a5fabafea34c392f1287d80a01f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda83c3e4126d3c84dc35c9504674a15') in 0,004073 seconds
-  Import took 0,008360 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000019 seconds.
-  path: Assets/imports/tilesheet/tilesheet3.prefab
-  artifactKey: Guid(78f83b66be5cd2040aa74359981a5295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/tilesheet3.prefab using Guid(78f83b66be5cd2040aa74359981a5295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053ecc20adeec611272367c8f45adb14') in 0,003474 seconds
-  Import took 0,007857 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,011122 seconds.
-  path: Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29.asset
-  artifactKey: Guid(79cfec8d65967b96eb06f15c3e7a87d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/chicken_white_v1_0_by_diarandor-dbunq9g_29.asset using Guid(79cfec8d65967b96eb06f15c3e7a87d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b986928d62b3b7cc09e3db6016fc6f') in 0,004741 seconds
-  Import took 0,010227 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 22,764129 seconds.
-  path: Assets/imports/tilesheet/easter_egg_1.png
-  artifactKey: Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/easter_egg_1.png using Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae95f6a4d18a34562d52f4a5f02e0910') in 0,007283 seconds
-  Import took 0,011670 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,011879 seconds.
-  path: Assets/imports/tilesheet/easter_egg_1.png
-  artifactKey: Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/easter_egg_1.png using Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae95f6a4d18a34562d52f4a5f02e0910') in 0,006422 seconds
-  Import took 0,010960 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17,761760 seconds.
-  path: Assets/imports/tilesheet/easter_egg_1.png
-  artifactKey: Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/easter_egg_1.png using Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a8709a389b58b8689f3df0ce7e5b53') in 0,007539 seconds
-  Import took 0,011760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6,173614 seconds.
-  path: Assets/imports/tilesheet/easter_egg_1.png
-  artifactKey: Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/easter_egg_1.png using Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a8709a389b58b8689f3df0ce7e5b53') in 0,005708 seconds
-  Import took 0,010031 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3,468911 seconds.
-  path: Assets/imports/tilesheet/easter_egg_1.png
-  artifactKey: Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/easter_egg_1.png using Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66655fc3fa4dda478f923d021076987') in 0,010028 seconds
-  Import took 0,015571 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,017537 seconds.
-  path: Assets/imports/tilesheet/easter_egg_1.png
-  artifactKey: Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/tilesheet/easter_egg_1.png using Guid(d63a3f02e5349f54b9a12acc47885405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66655fc3fa4dda478f923d021076987') in 0,011517 seconds
-  Import took 0,018477 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 65,798465 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abdc78418ae0dd3ea58918b802d88bb5') in 0,020162 seconds
-  Import took 0,026697 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,003832 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abdc78418ae0dd3ea58918b802d88bb5') in 0,012788 seconds
-  Import took 0,019865 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15,984469 seconds.
-  path: Assets/imports/bush.svg
-  artifactKey: Guid(ce2d8b810b43dafc389d1ea12550ee2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bush.svg using Guid(ce2d8b810b43dafc389d1ea12550ee2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f151fbb0be80f8e1623961f492058798') in 0,001988 seconds
-  Import took 0,006096 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 54,816113 seconds.
-  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab
-  artifactKey: Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab using Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea83731aaa0c1de56e8945b8614bc746') in 0,010911 seconds
-  Import took 0,015333 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000209 seconds.
-  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab
-  artifactKey: Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab using Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd912c63d20c539a5b8c4438788079caa') in 0,004032 seconds
-  Import took 0,007995 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1,529940 seconds.
-  path: Assets/chicken_white_v1_0_by_diarandor-dbunq9g 1.png
-  artifactKey: Guid(6fe4169728709213e964b2d5d7747bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/chicken_white_v1_0_by_diarandor-dbunq9g 1.png using Guid(6fe4169728709213e964b2d5d7747bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee83ac9b7cb7e8a80f5627db97fee5e6') in 0,009297 seconds
-  Import took 0,013545 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000198 seconds.
-  path: Assets/chicken_white_v1_0_by_diarandor-dbunq9g.png
-  artifactKey: Guid(c4e039702af0fc3ec9c5f366c501432c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/chicken_white_v1_0_by_diarandor-dbunq9g.png using Guid(c4e039702af0fc3ec9c5f366c501432c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c06aae6d4ab2f047dcd36e510e390ae') in 0,011560 seconds
-  Import took 0,015938 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 79,481332 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5bca29b925b556d59ba81f4cfc909f') in 0,006784 seconds
-  Import took 0,010658 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,007027 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5bca29b925b556d59ba81f4cfc909f') in 0,007775 seconds
-  Import took 0,013507 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18,981683 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b63b874ed2b5254a084371c64c0ed6') in 0,091598 seconds
-  Import took 0,096623 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 198,004628 seconds.
-  path: Assets/Palettes/bushfence3_0.asset
-  artifactKey: Guid(379c4a3e191cb12d8a0e51b7ba99faf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_0.asset using Guid(379c4a3e191cb12d8a0e51b7ba99faf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ed9c1a21b3d2cd840c9278b912b802') in 0,004769 seconds
-  Import took 0,009345 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000189 seconds.
-  path: Assets/Palettes/bushfence3_8.asset
-  artifactKey: Guid(6db2f5223788d76f0846de0958f3f5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_8.asset using Guid(6db2f5223788d76f0846de0958f3f5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f2ac48b088fc5c5d6d0872db6464a4e') in 0,004258 seconds
-  Import took 0,008330 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000224 seconds.
-  path: Assets/Palettes/bushfence3_13.asset
-  artifactKey: Guid(af79e899c72c54570a80f0adcdc8531b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_13.asset using Guid(af79e899c72c54570a80f0adcdc8531b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5d1a73050d931ac14c3f5d384a597de') in 0,004914 seconds
-  Import took 0,008787 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000232 seconds.
-  path: Assets/Palettes/bushfence3_1.asset
-  artifactKey: Guid(8d1412c496a054867bbefe08aac0bc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_1.asset using Guid(8d1412c496a054867bbefe08aac0bc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) pStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Edi -> (artifact id: '341bd1c75b9d5cfb8dbeef1a20158b2b') in 0,006586 seconds
-  Import took 0,010907 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000230 seconds.
-  path: Assets/Palettes/bushfence3_24.asset
-  artifactKey: Guid(060d57b9d7889be96befa05a9f484b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_24.asset using Guid(060d57b9d7889be96befa05a9f484b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53312f84774f6301e94df9dad888cf2') in 0,004301 seconds
-  Import took 0,008533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000312 seconds.
-  path: Assets/Palettes/bushfence3_19.asset
-  artifactKey: Guid(9b6ffdf3f4c623aa4a0e2228b193a6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_19.asset using Guid(9b6ffdf3f4c623aa4a0e2228b193a6c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069a9d1af93e54984b6504f41e18186f') in 0,006501 seconds
-  Import took 0,011303 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000245 seconds.
-  path: Assets/Palettes/bushfence3_23.asset
-  artifactKey: Guid(67c2c36e127653889be8bf8d446321a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_23.asset using Guid(67c2c36e127653889be8bf8d446321a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6dcf2b2799dec7662ed8bac4743309') in 0,005465 seconds
-  Import took 0,011580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000234 seconds.
-  path: Assets/Palettes/bushfence3_10.asset
-  artifactKey: Guid(04e4ea3104ac2f97388b78e73dd43e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_10.asset using Guid(04e4ea3104ac2f97388b78e73dd43e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be187d7a2054084e8e6a15f335e764de') in 0,004876 seconds
-  Import took 0,010168 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000240 seconds.
-  path: Assets/Palettes/bushfence3_12.asset
-  artifactKey: Guid(ea1f5e818e20337739f3cb6641330250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_12.asset using Guid(ea1f5e818e20337739f3cb6641330250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1dfe55e8958c6a9d141c733b424c32') in 0,006078 seconds
-  Import took 0,012048 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000256 seconds.
-  path: Assets/Palettes/bushfence3_21.asset
-  artifactKey: Guid(ce2c79eb73654b48ea706cd6f37b87ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_21.asset using Guid(ce2c79eb73654b48ea706cd6f37b87ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6015cfe1e487d360317a195cb21c2d') in 0,007396 seconds
-  Import took 0,015648 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000267 seconds.
-  path: Assets/Palettes/bushfence3_9.asset
-  artifactKey: Guid(4b4c468a25b17d34ab3ca4843f91be10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_9.asset using Guid(4b4c468a25b17d34ab3ca4843f91be10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5eeaaf35dc87f8f70ca8c79fe849679') in 0,006825 seconds
-  Import took 0,012493 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000158 seconds.
-  path: Assets/Palettes/bushfence3_2.asset
-  artifactKey: Guid(abb340b2202519e9598c94e7a23bb2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_2.asset using Guid(abb340b2202519e9598c94e7a23bb2b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca8345fb758f30bdbc43421976cdb44') in 0,005499 seconds
-  Import took 0,010098 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000233 seconds.
-  path: Assets/Palettes/bushfence3_18.asset
-  artifactKey: Guid(0e1c0099e556a413498276eca9d9e5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_18.asset using Guid(0e1c0099e556a413498276eca9d9e5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4eda92e639ad1ca8588e74abd8584c') in 0,006009 seconds
-  Import took 0,012835 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000207 seconds.
-  path: Assets/Palettes/bushfence3_27.asset
-  artifactKey: Guid(7d53db8a4825cee27b36eb7d9b28540a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_27.asset using Guid(7d53db8a4825cee27b36eb7d9b28540a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f0b55dda18451ed91b789c20526eb2') in 0,006114 seconds
-  Import took 0,014030 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000192 seconds.
-  path: Assets/Palettes/bushfence3_4.asset
-  artifactKey: Guid(62d65785fc8bd4bdeb6a522787340a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_4.asset using Guid(62d65785fc8bd4bdeb6a522787340a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5757b1983de12f2ff12edc2dcfa30f1') in 0,005885 seconds
-  Import took 0,011844 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000187 seconds.
-  path: Assets/Palettes/bushfence3_22.asset
-  artifactKey: Guid(46fd0991f6397e05fb4cb099c576761c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_22.asset using Guid(46fd0991f6397e05fb4cb099c576761c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb400057ca6abdb4f589d5cb5a79d36d') in 0,006991 seconds
-  Import took 0,013239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000212 seconds.
-  path: Assets/Palettes/bushfence3_7.asset
-  artifactKey: Guid(80f30ef2292bdb793be51e136819d1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_7.asset using Guid(80f30ef2292bdb793be51e136819d1a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc15b3a66b13de2997d12efcff06bd13') in 0,006974 seconds
-  Import took 0,013011 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000215 seconds.
-  path: Assets/Palettes/bushfence3_11.asset
-  artifactKey: Guid(6d40357886fecc341a88be6e3cd343d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_11.asset using Guid(6d40357886fecc341a88be6e3cd343d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2908c8083c05ffcfbc516f16cf7903') in 0,005438 seconds
-  Import took 0,011954 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000198 seconds.
-  path: Assets/Palettes/bushfence3_5.asset
-  artifactKey: Guid(60ef8cc6ccfd41a50a3669875db00a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_5.asset using Guid(60ef8cc6ccfd41a50a3669875db00a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d2ae4d7d519b7b131c0c6564e3073a') in 0,006488 seconds
-  Import took 0,012037 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000183 seconds.
-  path: Assets/Palettes/bushfence3_25.asset
-  artifactKey: Guid(16f305cd451d8756fb4aa687ea004586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_25.asset using Guid(16f305cd451d8756fb4aa687ea004586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3bf9361dd01eb110959cd11b6aa8cdb') in 0,007053 seconds
-  Import took 0,014141 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000255 seconds.
-  path: Assets/Palettes/bushfence3_3.asset
-  artifactKey: Guid(34dc52eea9eeb276e8432fcb0856e852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_3.asset using Guid(34dc52eea9eeb276e8432fcb0856e852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'defff9cf832cbabaea80c94063bfd241') in 0,005592 seconds
-  Import took 0,011434 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000222 seconds.
-  path: Assets/Palettes/bushfence3_26.asset
-  artifactKey: Guid(5c0ddc88615182625849255d4b05c801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_26.asset using Guid(5c0ddc88615182625849255d4b05c801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7242aa07c8ab6e75baaf53b254198892') in 0,005561 seconds
-  Import took 0,011889 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000224 seconds.
-  path: Assets/Palettes/bushfence3_17.asset
-  artifactKey: Guid(5103515534f5b726c9fa42db7e3d70ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_17.asset using Guid(5103515534f5b726c9fa42db7e3d70ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66cb3e5573e40f7da8c7ee8a270a7c0') in 0,006709 seconds
-  Import took 0,012836 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000220 seconds.
-  path: Assets/Palettes/bushfence3_14.asset
-  artifactKey: Guid(42462718ac57d511d998755b3748e827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_14.asset using Guid(42462718ac57d511d998755b3748e827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b8fa5b259e035a1983c361856647e2') in 0,007348 seconds
-  Import took 0,013718 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000217 seconds.
-  path: Assets/Palettes/bushfence3_20.asset
-  artifactKey: Guid(4e84cc1b71282f0bb8a3e3d2a4fb6d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_20.asset using Guid(4e84cc1b71282f0bb8a3e3d2a4fb6d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027a3c74b5e73488907a33401c178f1c') in 0,005514 seconds
-  Import took 0,011211 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000207 seconds.
-  path: Assets/Palettes/bushfence3_6.asset
-  artifactKey: Guid(e2043ff2754cf1c7aa5f099de966a3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_6.asset using Guid(e2043ff2754cf1c7aa5f099de966a3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3221d524613462008fb244bc174729') in 0,004449 seconds
-  Import took 0,009961 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000215 seconds.
-  path: Assets/Palettes/bushfence3_15.asset
-  artifactKey: Guid(422f0768bb9e768d8b478c02f8b2567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_15.asset using Guid(422f0768bb9e768d8b478c02f8b2567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aee27020cf45234528e57a3c078c65b') in 0,005389 seconds
-  Import took 0,010646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000234 seconds.
-  path: Assets/Palettes/bushfence3_16.asset
-  artifactKey: Guid(1047c8a54e19072c590678326cdaa06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_16.asset using Guid(1047c8a54e19072c590678326cdaa06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c51f6f621683744ddaed9b0dc3d4157') in 0,006935 seconds
-  Import took 0,012932 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,004050 seconds.
-  path: Assets/Palettes/bushfence3_15.asset
-  artifactKey: Guid(422f0768bb9e768d8b478c02f8b2567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_15.asset using Guid(422f0768bb9e768d8b478c02f8b2567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aee27020cf45234528e57a3c078c65b') in 0,004349 seconds
-  Import took 0,009133 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2,512697 seconds.
-  path: Assets/Palettes/bushfence3_28.asset
-  artifactKey: Guid(4c70982d16996d786b5a2027c8f69aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_28.asset using Guid(4c70982d16996d786b5a2027c8f69aef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2203f67e4f7a4a85af5f3eb1bad9cc7f') in 0,006191 seconds
-  Import took 0,011194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000287 seconds.
-  path: Assets/Palettes/bushfence3_31.asset
-  artifactKey: Guid(c535ff7201d4cc787b9055a779e57174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_31.asset using Guid(c535ff7201d4cc787b9055a779e57174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f621b79dfc17a71ad6f27fe21f0692a7') in 0,004623 seconds
-  Import took 0,010424 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000197 seconds.
-  path: Assets/Palettes/bushfence3_30.asset
-  artifactKey: Guid(ebf846f22a570d57da8829e4901ad434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_30.asset using Guid(ebf846f22a570d57da8829e4901ad434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5990797484d18261a58732d559c573ec') in 0,004623 seconds
-  Import took 0,009174 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000206 seconds.
-  path: Assets/Palettes/bushfence3_32.asset
-  artifactKey: Guid(47f0f0b8fa5e8191e84718b7e8b44854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_32.asset using Guid(47f0f0b8fa5e8191e84718b7e8b44854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191638ad1df4e514f659175a74b60749') in 0,008444 seconds
-  Import took 0,012089 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000204 seconds.
-  path: Assets/Palettes/bushfence3_29.asset
-  artifactKey: Guid(964965aa9798f1160b64e583672e8d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_29.asset using Guid(964965aa9798f1160b64e583672e8d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914fd43ae3cabef871127526527167fb') in 0,004470 seconds
-  Import took 0,008719 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000212 seconds.
-  path: Assets/Palettes/bushfence3_34.asset
-  artifactKey: Guid(d1c925ee096b3feff8db36fcd5160156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_34.asset using Guid(d1c925ee096b3feff8db36fcd5160156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11988a0a75f65830e4b4338187630589') in 0,006254 seconds
-  Import took 0,010790 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000202 seconds.
-  path: Assets/Palettes/bushfence3_33.asset
-  artifactKey: Guid(2787ff3a3063db957a9ce968e7d6d1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_33.asset using Guid(2787ff3a3063db957a9ce968e7d6d1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd5c23374e90553d3a35eaea3585395') in 0,006715 seconds
-  Import took 0,013294 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,006482 seconds.
-  path: Assets/Palettes/bushfence3_33.asset
-  artifactKey: Guid(2787ff3a3063db957a9ce968e7d6d1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_33.asset using Guid(2787ff3a3063db957a9ce968e7d6d1b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd5c23374e90553d3a35eaea3585395') in 0,007005 seconds
-  Import took 0,013430 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,278109 seconds.
-  path: Assets/Palettes/bushfence3_35.asset
-  artifactKey: Guid(8740d33fa8300375a94acbeb1defeb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_35.asset using Guid(8740d33fa8300375a94acbeb1defeb79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184bb349b222f20d323db62a1c481a13') in 0,005914 seconds
-  Import took 0,010699 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000304 seconds.
-  path: Assets/Palettes/bushfence3_38.asset
-  artifactKey: Guid(9f0cd3c1206c912d19847396ac5dff0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_38.asset using Guid(9f0cd3c1206c912d19847396ac5dff0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5160dacc5886a76acb46115c4dd19b') in 0,006039 seconds
-  Import took 0,011082 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000213 seconds.
-  path: Assets/Palettes/bushfence3_40.asset
-  artifactKey: Guid(2fbb5d6949597fe73b4fb5150601bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_40.asset using Guid(2fbb5d6949597fe73b4fb5150601bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6b36f5ec7f175d5ff2f5713a7c47ec') in 0,006094 seconds
-  Import took 0,011925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000326 seconds.
-  path: Assets/Palettes/bushfence3_41.asset
-  artifactKey: Guid(7254fccef078b05699b37fef20ba154f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_41.asset using Guid(7254fccef078b05699b37fef20ba154f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7fd20f9cfa54f7634a7f61b5e557e8c') in 0,005541 seconds
-  Import took 0,011752 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000440 seconds.
-  path: Assets/Palettes/bushfence3_39.asset
-  artifactKey: Guid(76d28a92e9bd517bdaf3be786ea01b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_39.asset using Guid(76d28a92e9bd517bdaf3be786ea01b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fcc785ba00a736449702dc787c4d853') in 0,005086 seconds
-  Import took 0,010469 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000213 seconds.
-  path: Assets/Palettes/bushfence3_36.asset
-  artifactKey: Guid(eba05341fc6695d9ba893e61db6a09c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_36.asset using Guid(eba05341fc6695d9ba893e61db6a09c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88645b2943f7b8740274ee1f5d668d26') in 0,006328 seconds
-  Import took 0,011302 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000169 seconds.
-  path: Assets/Palettes/bushfence3_37.asset
-  artifactKey: Guid(e3a72bd3b857711fd955f7b617275eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_37.asset using Guid(e3a72bd3b857711fd955f7b617275eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ef2635fb708f901c39add5a42c49d3') in 0,004654 seconds
-  Import took 0,010496 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,008047 seconds.
-  path: Assets/Palettes/bushfence3_37.asset
-  artifactKey: Guid(e3a72bd3b857711fd955f7b617275eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_37.asset using Guid(e3a72bd3b857711fd955f7b617275eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ef2635fb708f901c39add5a42c49d3') in 0,003890 seconds
-  Import took 0,008171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,238759 seconds.
-  path: Assets/Palettes/bushfence3_42.asset
-  artifactKey: Guid(623a383849bf1fce3b79a5ce4d7fd7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_42.asset using Guid(623a383849bf1fce3b79a5ce4d7fd7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeca1d17957ba23df943aeabf639ebe8') in 0,005911 seconds
-  Import took 0,011780 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000188 seconds.
-  path: Assets/Palettes/bushfence3_45.asset
-  artifactKey: Guid(5453cb527a43ff23da82b14605092ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_45.asset using Guid(5453cb527a43ff23da82b14605092ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae80272a9229deeff904c610adc77a3') in 0,003792 seconds
-  Import took 0,008120 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000249 seconds.
-  path: Assets/Palettes/bushfence3_43.asset
-  artifactKey: Guid(c6d17c65b710b7d04a9c9db4b967823b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_43.asset using Guid(c6d17c65b710b7d04a9c9db4b967823b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547ad5831fe04dfa6bfac34e4b1f9431') in 0,005347 seconds
-  Import took 0,009502 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000480 seconds.
-  path: Assets/Palettes/bushfence3_47.asset
-  artifactKey: Guid(177c769142c9cf8d8a03e0a6859b16d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_47.asset using Guid(177c769142c9cf8d8a03e0a6859b16d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cca29cabc44d7b0a4da7af278b1b64') in 0,006051 seconds
-  Import took 0,011231 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000282 seconds.
-  path: Assets/Palettes/bushfence3_46.asset
-  artifactKey: Guid(da9d9cf345604529aaf6a0264ee57249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_46.asset using Guid(da9d9cf345604529aaf6a0264ee57249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ea4fa0ced2a2c8941c91b03725513c') in 0,005594 seconds
-  Import took 0,010248 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000191 seconds.
-  path: Assets/Palettes/bushfence3_48.asset
-  artifactKey: Guid(08ac218053f70c2cb830cc45f4516a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_48.asset using Guid(08ac218053f70c2cb830cc45f4516a38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd538825eed28048a2c3f0f4d5df3036e') in 0,004587 seconds
-  Import took 0,009326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000224 seconds.
-  path: Assets/Palettes/bushfence3_44.asset
-  artifactKey: Guid(5e5e25fd5cf3124e0a254fe79b53619c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_44.asset using Guid(5e5e25fd5cf3124e0a254fe79b53619c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff9192a247f636ba40a5512915ed828') in 0,004422 seconds
-  Import took 0,010289 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,293589 seconds.
-  path: Assets/Palettes/bushfence3_49.asset
-  artifactKey: Guid(e9322b5c07f1be9d2baca37218aad5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_49.asset using Guid(e9322b5c07f1be9d2baca37218aad5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274490791cd9a99b64cce213d38464fc') in 0,005255 seconds
-  Import took 0,009537 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0,000179 seconds.
-  path: Assets/Palettes/bushfence3_53.asset
-  artifactKey: Guid(a868d7f060e86f402a16949092b0bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_53.asset using Guid(a868d7f060e86f402a16949092b0bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0321ce7c47b48af3d20502f0346a150') in 0,003930 seconds
-  Import took 0,008566 seconds .
-
-========================================================================
 Received Import Request.
-  Time since last request: 0,000219 seconds.
-  path: Assets/Palettes/bushfence3_54.asset
-  artifactKey: Guid(abcb5b08acf6519f3a2926218bf89bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_54.asset using Guid(abcb5b08acf6519f3a2926218bf89bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca759ec39d30fffc23bc1e2d7556e127') in 0,004979 seconds
-  Import took 0,009787 seconds .
+  Time since last request: 73,107213 seconds.
+  path: Assets/imports/egg.png
+  artifactKey: Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg.png using Guid(480532026394eb7c39f16f2e8c3227f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e11fe3dfd32f8f4a1df4f8234160c2d') in 0,009423 seconds
+  Import took 0,013224 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000569 seconds.
-  path: Assets/Palettes/bushfence3_55.asset
-  artifactKey: Guid(0c6944cb5dfa0075f9a82bab46dd98ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_55.asset using Guid(0c6944cb5dfa0075f9a82bab46dd98ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6c267f2d21efaa422d0370ced0aaa3') in 0,006434 seconds
-  Import took 0,012067 seconds .
+  Time since last request: 211,822764 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff04f7af54f56b6d3343d2f4247933f1') in 0,019232 seconds
+  Import took 0,023975 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000209 seconds.
-  path: Assets/Palettes/bushfence3_52.asset
-  artifactKey: Guid(de46bcf94a5a5919892b291d1c2f96cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_52.asset using Guid(de46bcf94a5a5919892b291d1c2f96cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21b6f86b6efbe867049fae76aecfe0e') in 0,004764 seconds
-  Import took 0,009903 seconds .
+  Time since last request: 15,635198 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a01cd0225bd7cdd44bff07886930c4') in 0,005208 seconds
+  Import took 0,009508 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000202 seconds.
-  path: Assets/Palettes/bushfence3_51.asset
-  artifactKey: Guid(ca443cefafb851ccfbdf8fefe30f9f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_51.asset using Guid(ca443cefafb851ccfbdf8fefe30f9f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c631235d54ab2400bb2a65bcc65fa6ec') in 0,004374 seconds
-  Import took 0,009492 seconds .
+  Time since last request: 0,029288 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a01cd0225bd7cdd44bff07886930c4') in 0,007697 seconds
+  Import took 0,012422 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000283 seconds.
-  path: Assets/Palettes/bushfence3_50.asset
-  artifactKey: Guid(6bbf252f1607a37eaa34cc8dcddb4bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_50.asset using Guid(6bbf252f1607a37eaa34cc8dcddb4bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a643e790585134f990b08a821ea664') in 0,006048 seconds
-  Import took 0,011324 seconds .
+  Time since last request: 70,158113 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed718643a0b2f4a6a4a457a0012d707') in 0,021368 seconds
+  Import took 0,027103 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,014838 seconds.
-  path: Assets/Palettes/bushfence3_56.asset
-  artifactKey: Guid(5096d94fd22ada76b8df33bcdb8b2c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_56.asset using Guid(5096d94fd22ada76b8df33bcdb8b2c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23610ff0f05b535e6db15c861c7870b2') in 0,004984 seconds
-  Import took 0,010109 seconds .
+  Time since last request: 93,792050 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af1e9c39f00e4bfebeff39abaa6ba28') in 0,013991 seconds
+  Import took 0,018163 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000248 seconds.
-  path: Assets/Palettes/bushfence3_57.asset
-  artifactKey: Guid(6b10f5ccf8f041c579cb1c5db820b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_57.asset using Guid(6b10f5ccf8f041c579cb1c5db820b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) tor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
-./Editor/Platform/Linux/TempStubs.cpp:PlatformImageFor -> (artifact id: 'c84282a3472d0d6f1516eb066abceb4d') in 0,005270 seconds
-  Import took 0,009770 seconds .
+  Time since last request: 0,017074 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af1e9c39f00e4bfebeff39abaa6ba28') in 0,015162 seconds
+  Import took 0,021910 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000227 seconds.
-  path: Assets/Palettes/bushfence3_58.asset
-  artifactKey: Guid(4d4c684046aae334ca5b142d55e5cb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_58.asset using Guid(4d4c684046aae334ca5b142d55e5cb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3134b0938812b3691e754f1a90782790') in 0,007490 seconds
-  Import took 0,012351 seconds .
+  Time since last request: 350,046366 seconds.
+  path: Assets/imports/castledoors.png
+  artifactKey: Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/castledoors.png using Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0beccaaa95076bf1a3d87cce25bd66aa') in 0,017499 seconds
+  Import took 0,023191 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000259 seconds.
-  path: Assets/Palettes/bushfence3_59.asset
-  artifactKey: Guid(09c6ba5d47823efa1971fcaa57854df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_59.asset using Guid(09c6ba5d47823efa1971fcaa57854df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7f0d5f94edebf7d7b21a74f3ca4d84') in 0,004627 seconds
-  Import took 0,009392 seconds .
+  Time since last request: 23,364096 seconds.
+  path: Assets/imports/castledoors.png
+  artifactKey: Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/castledoors.png using Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171a63ac5baef84f5f94df83e6f52e04') in 0,006777 seconds
+  Import took 0,012459 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000220 seconds.
-  path: Assets/Palettes/bushfence3_57.asset
-  artifactKey: Guid(6b10f5ccf8f041c579cb1c5db820b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_57.asset using Guid(6b10f5ccf8f041c579cb1c5db820b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84282a3472d0d6f1516eb066abceb4d') in 0,004307 seconds
-  Import took 0,010404 seconds .
+  Time since last request: 16,609816 seconds.
+  path: Assets/imports/castledoors.png
+  artifactKey: Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/castledoors.png using Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ccfeb48e12225912d8908bde24a2c0') in 0,048608 seconds
+  Import took 0,053034 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,000213 seconds.
-  path: Assets/Palettes/tilesheet1.prefab
-  artifactKey: Guid(4bffc75caeb81def5a6d0338bb339ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/tilesheet1.prefab using Guid(4bffc75caeb81def5a6d0338bb339ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a879ee068d6160f55ba344b6c655d32') in 0,004330 seconds
-  Import took 0,010690 seconds .
+  Time since last request: 178,239649 seconds.
+  path: Assets/imports/castledoors.png
+  artifactKey: Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/castledoors.png using Guid(7de3876bc4b0ba9c9892e781a40d7d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbf833e5dbea0f0a3ca7ef92abd0955') in 0,047603 seconds
+  Import took 0,052479 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0,006954 seconds.
-  path: Assets/Palettes/bushfence3_59.asset
-  artifactKey: Guid(09c6ba5d47823efa1971fcaa57854df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/bushfence3_59.asset using Guid(09c6ba5d47823efa1971fcaa57854df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7f0d5f94edebf7d7b21a74f3ca4d84') in 0,006502 seconds
-  Import took 0,011974 seconds .
+  Time since last request: 1583,049613 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd740c2bb7739a15d9da52f588569c30') in 0,023455 seconds
+  Import took 0,029589 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 44,293523 seconds.
-  path: Assets/Palettes/tilesheet2/Tilesheet2.prefab
-  artifactKey: Guid(50284e165e74824e78721ccfc221e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palettes/tilesheet2/Tilesheet2.prefab using Guid(50284e165e74824e78721ccfc221e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1071700d7af34f2e6b2ed3bb16443e1f') in 0,003957 seconds
-  Import took 0,009012 seconds .
+  Time since last request: 23,870709 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0d3d364f10b10a62bb8bf304706bc1') in 0,019832 seconds
+  Import took 0,028920 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 61,545681 seconds.
-  path: Assets/imports/bushfence3.png
-  artifactKey: Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/imports/bushfence3.png using Guid(bcab534e1c507bcd0bd9f82989b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49d7a9a5e9444fd7f5ae4036226b948d') in 0,148197 seconds
-  Import took 0,154773 seconds .
+  Time since last request: 0,020261 seconds.
+  path: Assets/imports/egg (1).png
+  artifactKey: Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/egg (1).png using Guid(2f9e8e248a71c0ffca964bb344f5c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0d3d364f10b10a62bb8bf304706bc1') in 0,026036 seconds
+  Import took 0,033310 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
