@@ -13,6 +13,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< HEAD
 34717
 Successfully changed project path to: /home/caroline/unity
 /home/caroline/unity
@@ -46,10 +47,42 @@ Registered in 0,002285 seconds.
 Native extension for LinuxStandalone target not found
 Refreshing native plugins compatible for Editor in 63,10 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
+=======
+63315
+Successfully changed project path to: /Users/nicolassoumier/Desktop/hackatonUnity/clone/unity
+/Users/nicolassoumier/Desktop/hackatonUnity/clone/unity
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path /Applications/Boris Continuum OFX HitFilm 2021/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/nicolassoumier/Desktop/hackatonUnity/clone/unity/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-01 20:03:21.049 Unity[51125:2636223] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-04-01 20:03:21.049 Unity[51125:2636223] Metal devices available: 1
+2021-04-01 20:03:21.049 Unity[51125:2636223] 0: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-04-01 20:03:21.050 Unity[51125:2636223] Using device Intel(R) Iris(TM) Graphics 6100 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6100
+Initialize mono
+Mono path[0] = '/Applications/Boris Continuum OFX HitFilm 2021/2020.3.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Boris Continuum OFX HitFilm 2021/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Boris Continuum OFX HitFilm 2021/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56125
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Boris Continuum OFX HitFilm 2021/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Boris Continuum OFX HitFilm 2021/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003155 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1,602 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
@@ -58,10 +91,22 @@ Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Refreshing native plugins compatible for Editor in 0,41 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
+=======
+- Completed reload, in  2.534 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001655 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1,130 seconds
 Platform modules already initialized, skipping
 ========================================================================
@@ -90,19 +135,68 @@ Received Import Request.
   artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ca8d9074a00b9885f806022cb74598') in 0,001239 seconds
   Import took 0,003553 seconds .
+=======
+- Completed reload, in  1.286 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Boris Continuum OFX HitFilm 2021/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1159 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.7 MB.
+System memory in use after: 110.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1606.
+Total: 2.854261 ms (FindLiveObjects: 0.360492 ms CreateObjectMapping: 0.092172 ms MarkObjects: 2.275680 ms  DeleteObjects: 0.124371 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/imports/Pataepollo.png
+  artifactKey: Guid(b3edc9afe81c5483c94624b97724ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/Pataepollo.png using Guid(b3edc9afe81c5483c94624b97724ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e69d280c2d7855fdf5cef5ab9283c87') in 1.545729 seconds
+  Import took 1.548872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.658183 seconds.
+  path: Assets/imports
+  artifactKey: Guid(ed61f6e8025005b6fa501e2dc3026689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports using Guid(ed61f6e8025005b6fa501e2dc3026689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572e734ab0de185cfd592891c9ad317c') in 0.005629 seconds
+  Import took 0.026098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.851264 seconds.
+  path: Assets/imports/Pataepollo.png
+  artifactKey: Guid(b3edc9afe81c5483c94624b97724ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/imports/Pataepollo.png using Guid(b3edc9afe81c5483c94624b97724ed04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd26b789643900a81faf81e7f4ddaf219') in 0.129483 seconds
+  Import took 0.133835 seconds .
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0,000915 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0,00 ms.
+=======
+Registered in 0.000651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  0,928 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0,33 ms, found 0 plugins.
@@ -153,4 +247,40 @@ Received Import Request.
   artifactKey: Guid(e2aeb781ff70ea0288098fcf4656196f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/imports/fonts using Guid(e2aeb781ff70ea0288098fcf4656196f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92a5aeb5da96633a81a378442cd3c68') in 0,002015 seconds
   Import took 0,006493 seconds .
+=======
+- Completed reload, in  1.610 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 118.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 2.352830 ms (FindLiveObjects: 0.197472 ms CreateObjectMapping: 0.041444 ms MarkObjects: 2.033304 ms  DeleteObjects: 0.078185 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002022 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.334 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.8 MB.
+System memory in use after: 118.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 1.979323 ms (FindLiveObjects: 0.153738 ms CreateObjectMapping: 0.038075 ms MarkObjects: 1.711817 ms  DeleteObjects: 0.072516 ms)
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
 
