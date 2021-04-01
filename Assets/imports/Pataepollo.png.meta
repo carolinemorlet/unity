@@ -1,7 +1,28 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: aa973165978c6b73087384bf6f00b64c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3727704139111621988
+    second: Pataepollo_0
+  - first:
+      213: 5559535118306760818
+    second: Pataepollo_1
+  - first:
+      213: -5865648634703363418
+    second: Pataepollo_2
+  - first:
+      213: -7751447870028442950
+    second: Pataepollo_3
+  - first:
+      213: 7342803898416653965
+    second: Pataepollo_4
+=======
 guid: b3edc9afe81c5483c94624b97724ed04
 TextureImporter:
   internalIDToNameTable: []
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +62,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< HEAD
+  spriteMode: 2
+=======
   spriteMode: 1
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -87,6 +112,120 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pataepollo_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a9f70f5d8844cc0800000000000000
+      internalID: -3727704139111621988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pataepollo_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278dbf20cbf672d40800000000000000
+      internalID: 5559535118306760818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pataepollo_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2404fe4a7099ea0800000000000000
+      internalID: -5865648634703363418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pataepollo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21ffb2b335d6490800000000000000
+      internalID: -7751447870028442950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pataepollo_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866a74ed31e6e560800000000000000
+      internalID: 7342803898416653965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 06d6e47496841e8278861933492ec6c5
+=======
   - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -106,6 +245,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
     internalID: 0
     vertices: []
     indices: 

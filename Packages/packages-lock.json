@@ -1,5 +1,14 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+=======
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
     "com.unity.2d.tilemap": {
       "version": "1.0.0",
       "depth": 0,

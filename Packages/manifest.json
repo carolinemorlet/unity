@@ -1,5 +1,9 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "com.unity.2d.sprite": "1.0.0",
+=======
+>>>>>>> 5647247474a20b686990ee7b9ded6ed9d2eebfdf
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.collab-proxy": "1.3.9",
     "com.unity.ide.rider": "2.0.7",
